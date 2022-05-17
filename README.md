@@ -24,10 +24,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/></a> 
       <a href="https://www.python.org/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/></a>
-  </p>
-</section>
+    </a>
 
-<br><br>
+<br>
 
 ##
 <div align="center">

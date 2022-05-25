@@ -2,7 +2,6 @@
 
 - 💎 I’m beginner Developer **</>**
 - 🌱 I’m currently learning -> Python 🐍
-
 <br>
 
 ## 🛠 &nbsp;Languages and Tools

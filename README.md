@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Daniel Oliveira</h1>
 
-- 💎 Beginner Developer -> Front-End *loading...* **FullStack** **</>**
+- 💎 Beginner Developer -> Front-End *loading...* 
 - 🌱 I’m currently learning -> Python 🐍
 <br>
 

@@ -30,12 +30,13 @@
 <br>
 
 ##
-<div align="center">
+<!-- <div align="center">
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22phzrxcwyfhfrzj7oukosfoq&cover_image=true&theme=novatorem&bar_color=6b00c2&bar_color_cover=false)](https://open.spotify.com/user/22phzrxcwyfhfrzj7oukosfoq?si=974cda04265b4f58)
   
 </div>
-
+-->
+  
 <div align="center">
   <a href="https://github.com/danielhurtz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielhurtz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

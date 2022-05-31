@@ -50,6 +50,9 @@ Gosto de aprender e pesquisar, sou dinâmico e flexível, pronto para dialogar c
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhurtz&layout=compact&langs_count=7&theme=algolia"/>
   </a>
   <br>
+  
+  ## 
+  
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="30" height="30"/></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="30" height="30"/></a>

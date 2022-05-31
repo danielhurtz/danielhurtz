@@ -1,7 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Daniel Oliveira</h1>
 
-- 💎 Beginner Developer -> Front-End *loading...* Back-End
-- 🌱 I’m currently learning -> Python 🐍
+  - 💎 Beginner Developer -> Front-End *loading...* Back-End
+  - 🌱 I’m currently learning -> Python 🐍
+  - Estou aberto para novos desafios e resolução de problemas, criando aplicações úteis e práticas.
+Gosto de aprender e pesquisar, sou dinâmico e flexível, pronto para dialogar com a equipe de trabalho, procurando sempre a melhor solução, esse é o melhor caminho.
+<br>
+ <div align="center"> 
+  <a href="https://codepen.io/danielhurtz" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
+  <a href = "mailto:daniel.anjos@pm.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/danielhurtz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br>
 
 ## 🛠 &nbsp;Languages and Tools
@@ -41,11 +48,15 @@
   <a href="https://github.com/danielhurtz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielhurtz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhurtz&layout=compact&langs_count=7&theme=algolia"/>
+  </a>
+  <br>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="30" height="30"/></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="30" height="30"/></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css3" width="30" height="30"/></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="30" height="30"/></a>
 </div>
   
-  <div align="center"> 
-  <a href="https://codepen.io/danielhurtz" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
-  <a href = "mailto:daniel.anjos@pm.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/danielhurtz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 
 

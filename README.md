@@ -2,7 +2,7 @@
 
   - 💎 Beginner Developer -> Front-End *loading...* Back-End
   - 🌱 I’m currently learning -> JS | Python 🐍
-  - 
+  
   Estou pronto para novos  desafios. Gosto de aprender e pesquisar, sou dinâmico e flexível, pronto para dialogar com a equipe de trabalho, procurando sempre a melhor solução, esse é o melhor caminho.
 <br>
  <div align="center"> 

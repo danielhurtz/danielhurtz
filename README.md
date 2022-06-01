@@ -2,9 +2,8 @@
 
   - 💎 Beginner Developer -> Front-End *loading...* Back-End
   - 🌱 I’m currently learning -> JS | Python 🐍
-  
-Estou aberto a novos desafios, procurando sempre, da melhor forma, a resolução de problemas, criando aplicações úteis e práticas.
-Gosto de aprender e pesquisar, sou dinâmico e flexível, pronto para dialogar com a equipe de trabalho, procurando sempre a melhor solução, esse é o melhor caminho.
+  - 
+  Estou pronto para novos  desafio. Gosto de aprender e pesquisar, sou dinâmico e flexível, pronto para dialogar com a equipe de trabalho, procurando sempre a melhor solução, esse é o melhor caminho.
 <br>
  <div align="center"> 
   <a href="https://codepen.io/danielhurtz" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>

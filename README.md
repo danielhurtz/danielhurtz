@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Daniel Oliveira</h1>
 
   - 💎 Beginner Developer -> Front-End *loading...* Back-End
-  - 🌱 I’m currently learning -> JS | Python 🐍
+  - 🌱 I’m currently learning -> Javascript | MySQL | Angular | .NET.| Python 🐍
   
   <!--Estou pronto para novos  desafios. Gosto de aprender e pesquisar, sou dinâmico e flexível, pronto para dialogar com a equipe de trabalho, procurando sempre a melhor solução, esse é o melhor caminho.-->
 <br>

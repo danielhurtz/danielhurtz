@@ -22,6 +22,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/><a/>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/></a>
+      <a href="https://www.typescriptlang.org/docs/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/></a>          
       <a href="https://angular.io/docs">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40"/></a>
       <a href="https://nodejs.org">

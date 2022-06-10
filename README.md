@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Daniel Oliveira</h1>
 
-  - 💎 Beginner Developer -> Front-End *loading...* Back-End
-  - 🌱 I’m currently learning -> Javascript | MySQL | Angular | .NET.| Python 🐍
+  - 💎 Desenvolvedor Iniciante -> Front-End *loading...* Back-End
+  - 🌱 Estou aprendendo agora -> Javascript | MySQL | Angular | .NET.| Python 🐍
   
   <!--Estou pronto para novos  desafios. Gosto de aprender e pesquisar, sou dinâmico e flexível, pronto para dialogar com a equipe de trabalho, procurando sempre a melhor solução, esse é o melhor caminho.-->
 <br>
@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/danielhurtz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br>
 
-## 🛠 &nbsp;Languages and Tools
+## 🛠 &nbsp;Linguagens e Ferramentas
 
   <div>
     <a href="https://git-scm.com/">
@@ -55,7 +55,7 @@
   </a>
   <br>
   
-  ## Languages & Skills
+  ## Linguagens e Habilidades
   
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="30" height="30"/></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="30" height="30"/></a>

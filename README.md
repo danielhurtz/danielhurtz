@@ -50,8 +50,8 @@
   
 <div align="center">
   <a href="https://github.com/danielhurtz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielhurtz&show_icons=true&theme=darkbluedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhurtz&layout=compact&langs_count=7&theme=darkbluedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielhurtz&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhurtz&layout=compact&langs_count=7&theme=noctis_minimus"/>
   </a>
   <br>
   

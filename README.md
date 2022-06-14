@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Daniel Oliveira</h1>
+<h1 align="center">Hi, I'm Daniel Oliveira</h1> <p align="right"><img src="https://komarev.com/ghpvc/?username=danielhurtz&color=102C93&style=for-the-badge" alt="Profile views"/></p>
 
   - 💎 Desenvolvedor Iniciante -> Front-End | Back-End *loading...* Fullstack
   - 🌱 Estou aprendendo agora -> Javascript | MySQL | Angular | .NET.| Python 🐍
@@ -8,7 +8,7 @@
  <div align="center"> 
   <a href="https://codepen.io/danielhurtz" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
   <a href = "mailto:daniel.anjos@pm.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/danielhurtz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/danielhurtz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br>
 
 ## 🛠 &nbsp;Linguagens e Ferramentas
@@ -61,7 +61,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielhurtz&show_icons=true&bg_color=1,054D94,000000&title_color=00D9DC&text_color=fff&border_color=0000&icon_color=A0DC00"/>  
   </a>
   <br>
-  
   ## Linguagens e Habilidades
    
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" width="30" height="30"/></a>

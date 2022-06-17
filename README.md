@@ -62,7 +62,7 @@
   </a>
   <br>
   
-  ## Linguagens e Habilidades
+  ## Skills
    
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" width="30" height="30"/></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="30" height="30"/> 

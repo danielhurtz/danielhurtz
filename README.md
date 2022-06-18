@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Daniel Oliveira</h1> <p align="right"><img src="https://komarev.com/ghpvc/?username=danielhurtz&color=102C93&style=for-the-badge" alt="Profile views"/></p>
 
   - 💎 Desenvolvedor Iniciante -> Front-End | Back-End *loading...* Fullstack
-  - 🌱 Estou aprendendo agora -> Javascript | MySQL | Angular | .NET.| Python 🐍
+  - 🌱 Estou aprendendo agora -> Javascript | MySQL | Angular | .NET.| 
   
   <!--Estou pronto para novos  desafios. Gosto de aprender e pesquisar, sou dinâmico e flexível, pronto para dialogar com a equipe de trabalho, procurando sempre a melhor solução, esse é o melhor caminho.-->
 <br>
@@ -11,6 +11,8 @@
   <a href="https://www.linkedin.com/in/danielhurtz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br>
 
+ #### Don't Tread On Me 🐍
+  
 ## 🛠 &nbsp;Linguagens e Ferramentas
 
   <div>
@@ -74,3 +76,4 @@
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="30" height="30"/></a>
            
 </div>
+  

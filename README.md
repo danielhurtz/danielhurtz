@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Daniel Oliveira</h1> <p align="right"><img src="https://komarev.com/ghpvc/?username=danielhurtz&color=102C93&style=for-the-badge" alt="Profile views"/></p>
+<h1 align="center">Olá! sou Daniel Oliveira</h1> <p align="right"><img src="https://komarev.com/ghpvc/?username=danielhurtz&color=102C93&style=for-the-badge" alt="Profile views"/></p>
 
   - 💎 Desenvolvedor Iniciante -> Front-End | Back-End *loading...* Fullstack
   - 🌱 Estou aprendendo agora -> Javascript | MySQL | Angular | .NET.| 

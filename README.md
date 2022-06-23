@@ -1,7 +1,7 @@
 <h1 align="center">Olá! sou Daniel Oliveira</h1> <p align="right"><img src="https://komarev.com/ghpvc/?username=danielhurtz&color=102C93&style=for-the-badge" alt="Profile views"/></p>
 
-  - 💎 Desenvolvedor Iniciante -> Front-End | Back-End *loading...* Fullstack
-  - 🌱 Estou aprendendo agora -> JavaScript | TypeScript | Angular | ReactJS | MySQL | PostgreSQL | .NET.| C#
+  - 👾 Desenvolvedor Iniciante -> Front-End | Back-End *loading...* Fullstack
+  - 📖 Estou aprendendo agora -> JavaScript | TypeScript | Angular | ReactJS | MySQL | PostgreSQL | .NET.| C#
   
   <!--Estou pronto para novos  desafios. Gosto de aprender e pesquisar, sou dinâmico e flexível, pronto para dialogar com a equipe de trabalho, procurando sempre a melhor solução, esse é o melhor caminho.-->
 <br>
@@ -38,6 +38,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
       <a href="https://dev.mysql.com/doc/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
+      <a href="https://www.postgresql.org/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
       <a href="https://www.w3schools.com/css/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/></a>
       <a href="https://www.w3.org/html/">

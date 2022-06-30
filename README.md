@@ -13,40 +13,6 @@
 
  #### Don't Tread On Me 🐍
   
-
-
-##
-<!-- <div align="center">
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22phzrxcwyfhfrzj7oukosfoq&cover_image=true&theme=novatorem&bar_color=6b00c2&bar_color_cover=false)](https://open.spotify.com/user/22phzrxcwyfhfrzj7oukosfoq?si=974cda04265b4f58)
-  
-</div>
--->
-  
-<div align="center">
-  <a href="https://github.com/danielhurtz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhurtz&layout=compact&langs_count=7&bg_color=1,054D94,000000&title_color=00D9DC&text_color=fff&border_color=0000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielhurtz&show_icons=true&bg_color=1,054D94,000000&title_color=00D9DC&text_color=fff&border_color=0000&icon_color=A0DC00"/>  
-  </a>
-  <br>
-  
-<!-- 
-  ## Skills
-    
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" width="30" height="30"/></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="30" height="30"/></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="30" height="30"/> 
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="30" height="30"/></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="30" height="30"/></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css3" width="30" height="30"/></a> 
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="30" height="30"/></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></a> 
-           
-</div>
-
--->
-
 ## 🛠 &nbsp;Linguagens e Ferramentas
 
   <div>
@@ -82,3 +48,35 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/></a> 
       <a href="https://www.canva.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/></a>    
+
+##
+<!-- <div align="center">
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22phzrxcwyfhfrzj7oukosfoq&cover_image=true&theme=novatorem&bar_color=6b00c2&bar_color_cover=false)](https://open.spotify.com/user/22phzrxcwyfhfrzj7oukosfoq?si=974cda04265b4f58)
+  
+</div>
+-->
+  
+<div align="center">
+  <a href="https://github.com/danielhurtz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhurtz&layout=compact&langs_count=7&bg_color=1,054D94,000000&title_color=00D9DC&text_color=fff&border_color=0000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielhurtz&show_icons=true&bg_color=1,054D94,000000&title_color=00D9DC&text_color=fff&border_color=0000&icon_color=A0DC00"/>  
+  </a>
+  <br>
+  
+<!-- 
+  ## Skills
+    
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" width="30" height="30"/></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="30" height="30"/></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="30" height="30"/> 
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="30" height="30"/></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="30" height="30"/></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css3" width="30" height="30"/></a> 
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="30" height="30"/></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></a> 
+           
+</div>
+
+-->

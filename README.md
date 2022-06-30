@@ -66,6 +66,7 @@
   </a>
   <br>
   
+<!-- 
   ## Skills
     
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" width="30" height="30"/></a>
@@ -79,4 +80,6 @@
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></a> 
            
 </div>
+
+-->
   

@@ -60,7 +60,7 @@
   
 <div align="center">
   <a href="https://github.com/danielhurtz">
-    <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhurtz&layout=compact&langs_count=7&bg_color=1,054D94,000000&title_color=00D9DC&text_color=fff&border_color=0000"/>
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhurtz&layout=compact&langs_count=7&bg_color=1,054D94,000000&title_color=00D9DC&text_color=fff&border_color=0000"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielhurtz&show_icons=true&bg_color=1,054D94,000000&title_color=00D9DC&text_color=fff&border_color=0000&icon_color=A0DC00"/>  
   </a>
   <br>

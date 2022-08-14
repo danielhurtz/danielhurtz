@@ -6,7 +6,7 @@
   <!--Estou pronto para novos  desafios. Gosto de aprender e pesquisar, sou dinâmico e flexível, pronto para dialogar com a equipe de trabalho, procurando sempre a melhor solução, esse é o melhor caminho.-->
 <br>
  <div align="center"> 
-  <a href="https://codepen.io/danielhurtz" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
+  <!-- <a href="https://codepen.io/danielhurtz" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:daniel.anjos@pm.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danielhurtz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br>

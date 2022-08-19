@@ -1,6 +1,6 @@
 <h1 align="center">Olá! sou Daniel Oliveira</h1> <p align="right"><img src="https://komarev.com/ghpvc/?username=danielhurtz&color=102C93&style=for-the-badge" alt="Profile views"/></p>
 
-  - 🚀 Desenvolvedor ~~Jr~~ Iniciante -> ~~Front-End~~ | Back-End *loading...* --> Fullstack
+  - 🚀 Desenvolvedor ~~Jr~~ -> ~~Front-End~~ | Back-End *loading...* --> Fullstack
   - 📖 Estou aprendendo agora -> JavaScript | **TypeScript** | Angular | ReactJS | NodeJS | MySQL | PostgreSQL 
   
   <!--Estou pronto para novos  desafios. Gosto de aprender e pesquisar, sou dinâmico e flexível, pronto para dialogar com a equipe de trabalho, procurando sempre a melhor solução, esse é o melhor caminho.-->
